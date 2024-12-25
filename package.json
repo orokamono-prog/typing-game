@@ -1,0 +1,23 @@
+{
+  "name": "typing-game",
+  "version": "1.0.0",
+  "description": "無造作な単語の組み合わせを使ったタイピングゲーム",
+  "main": "src/app.ts",
+  "scripts": {
+    "start": "ts-node src/app.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "typing",
+    "game",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
